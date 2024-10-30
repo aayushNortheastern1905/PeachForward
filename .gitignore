@@ -1,0 +1,9 @@
+# Ignore node_modules folders
+pf_client/node_modules
+PF-server/node_modules
+
+# Ignore environment files
+PF-server/.env
+
+# Ignore build files if they exist
+pf_client/build
